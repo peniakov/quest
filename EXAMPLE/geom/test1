@@ -1,0 +1,50 @@
+# ==========================
+# lattice dimension
+# ==========================
+
+gfile  = square.geom
+
+# ==========================
+# Hubbard model
+# ==========================
+
+mu_up  =  0.0000011
+mu_dn  =  0.0000011
+L      = 90
+dtau   = 0.1
+HSF    = -1
+bcond  =  0.0, 0.0, 0.0
+#HSFin = square.HSF
+HSFout = square.HSF
+
+# ==========================
+# Met's algorithm
+# ==========================
+
+nwarm  = 10
+npass  = 200
+nmeas  = -1
+ntry   = 0
+
+# ==========================
+# Measurements
+# ==========================
+
+nbin   = 5
+nhist  = 1
+seed   = 1234567
+msxx   = 1
+msvd   = 0
+exactb = 0
+tausk  = 10
+fullg  = 0
+
+# ==========================
+# numerical
+# ==========================
+
+north  = 5
+nwrap  = 15
+fixwrap = 1
+errrate = 0.01
+difflim = 0.000001

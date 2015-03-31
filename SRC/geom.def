@@ -1,0 +1,13 @@
+#
+# This file defines data for input lattice of DQMC simulation.
+# 
+
+#
+# The name of the lattice. It's length should be < 30 characters.
+#
+name   = 2D periodic rectanular lattice 
+
+#
+# Number of sites. Here we do not 
+#
+nsite  = 16

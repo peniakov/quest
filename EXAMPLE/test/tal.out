@@ -1,0 +1,602 @@
+ Warmup Sweep, nwrap  :     10  15
+ Warmup Sweep, nwrap  :     20  15
+ Warmup Sweep, nwrap  :     30  15
+ Warmup Sweep, nwrap  :     40  15
+ Warmup Sweep, nwrap  :     50  15
+ Warmup Sweep, nwrap  :     60  15
+ Warmup Sweep, nwrap  :     70  15
+ Warmup Sweep, nwrap  :     80  15
+ Warmup Sweep, nwrap  :     90  15
+ Warmup Sweep, nwrap  :    100  15
+ Warmup Sweep, nwrap  :    110  15
+ Warmup Sweep, nwrap  :    120  15
+ Warmup Sweep, nwrap  :    130  15
+ Warmup Sweep, nwrap  :    140  15
+ Warmup Sweep, nwrap  :    150  15
+ Warmup Sweep, nwrap  :    160  15
+ Warmup Sweep, nwrap  :    170  15
+ Warmup Sweep, nwrap  :    180  15
+ Warmup Sweep, nwrap  :    190  15
+ Warmup Sweep, nwrap  :    200  15
+ Warmup Sweep, nwrap  :    210  15
+ Warmup Sweep, nwrap  :    220  15
+ Warmup Sweep, nwrap  :    230  15
+ Warmup Sweep, nwrap  :    240  15
+ Warmup Sweep, nwrap  :    250  15
+ Warmup Sweep, nwrap  :    260  15
+ Warmup Sweep, nwrap  :    270  15
+ Warmup Sweep, nwrap  :    280  15
+ Warmup Sweep, nwrap  :    290  15
+ Warmup Sweep, nwrap  :    300  15
+ Warmup Sweep, nwrap  :    310  15
+ Warmup Sweep, nwrap  :    320  15
+ Warmup Sweep, nwrap  :    330  15
+ Warmup Sweep, nwrap  :    340  15
+ Warmup Sweep, nwrap  :    350  15
+ Warmup Sweep, nwrap  :    360  15
+ Warmup Sweep, nwrap  :    370  15
+ Warmup Sweep, nwrap  :    380  15
+ Warmup Sweep, nwrap  :    390  15
+ Warmup Sweep, nwrap  :    400  15
+ Warmup Sweep, nwrap  :    410  15
+ Warmup Sweep, nwrap  :    420  15
+ Warmup Sweep, nwrap  :    430  15
+ Warmup Sweep, nwrap  :    440  15
+ Warmup Sweep, nwrap  :    450  15
+ Warmup Sweep, nwrap  :    460  15
+ Warmup Sweep, nwrap  :    470  15
+ Warmup Sweep, nwrap  :    480  15
+ Warmup Sweep, nwrap  :    490  15
+ Warmup Sweep, nwrap  :    500  15
+ Warmup Sweep, nwrap  :    510  15
+ Warmup Sweep, nwrap  :    520  15
+ Warmup Sweep, nwrap  :    530  15
+ Warmup Sweep, nwrap  :    540  15
+ Warmup Sweep, nwrap  :    550  15
+ Warmup Sweep, nwrap  :    560  15
+ Warmup Sweep, nwrap  :    570  15
+ Warmup Sweep, nwrap  :    580  15
+ Warmup Sweep, nwrap  :    590  15
+ Warmup Sweep, nwrap  :    600  15
+ Warmup Sweep, nwrap  :    610  15
+ Warmup Sweep, nwrap  :    620  15
+ Warmup Sweep, nwrap  :    630  15
+ Warmup Sweep, nwrap  :    640  15
+ Warmup Sweep, nwrap  :    650  15
+ Warmup Sweep, nwrap  :    660  15
+ Warmup Sweep, nwrap  :    670  15
+ Warmup Sweep, nwrap  :    680  15
+ Warmup Sweep, nwrap  :    690  15
+ Warmup Sweep, nwrap  :    700  15
+ Warmup Sweep, nwrap  :    710  15
+ Warmup Sweep, nwrap  :    720  15
+ Warmup Sweep, nwrap  :    730  15
+ Warmup Sweep, nwrap  :    740  15
+ Warmup Sweep, nwrap  :    750  15
+ Warmup Sweep, nwrap  :    760  15
+ Warmup Sweep, nwrap  :    770  15
+ Warmup Sweep, nwrap  :    780  15
+ Warmup Sweep, nwrap  :    790  15
+ Warmup Sweep, nwrap  :    800  15
+ Warmup Sweep, nwrap  :    810  15
+ Warmup Sweep, nwrap  :    820  15
+ Warmup Sweep, nwrap  :    830  15
+ Warmup Sweep, nwrap  :    840  15
+ Warmup Sweep, nwrap  :    850  15
+ Warmup Sweep, nwrap  :    860  15
+ Warmup Sweep, nwrap  :    870  15
+ Warmup Sweep, nwrap  :    880  15
+ Warmup Sweep, nwrap  :    890  15
+ Warmup Sweep, nwrap  :    900  15
+ Warmup Sweep, nwrap  :    910  15
+ Warmup Sweep, nwrap  :    920  15
+ Warmup Sweep, nwrap  :    930  15
+ Warmup Sweep, nwrap  :    940  15
+ Warmup Sweep, nwrap  :    950  15
+ Warmup Sweep, nwrap  :    960  15
+ Warmup Sweep, nwrap  :    970  15
+ Warmup Sweep, nwrap  :    980  15
+ Warmup Sweep, nwrap  :    990  15
+ Warmup Sweep, nwrap  :   1000  15
+ Measurement Sweep, bin, iter, slice :      1     1    15
+ Measurement Sweep, bin, iter, slice :      1     2    13
+ Measurement Sweep, bin, iter, slice :      1     3     2
+ Measurement Sweep, bin, iter, slice :      1     4     5
+ Measurement Sweep, bin, iter, slice :      1     5    13
+ Measurement Sweep, bin, iter, slice :      1     6    13
+ Measurement Sweep, bin, iter, slice :      1     7    17
+ Measurement Sweep, bin, iter, slice :      1     8    14
+ Measurement Sweep, bin, iter, slice :      1     9     2
+ Measurement Sweep, bin, iter, slice :      1    10    14
+ Measurement Sweep, bin, iter, slice :      1    11    14
+ Measurement Sweep, bin, iter, slice :      1    12    19
+ Measurement Sweep, bin, iter, slice :      1    13    11
+ Measurement Sweep, bin, iter, slice :      1    14     9
+ Measurement Sweep, bin, iter, slice :      1    15     5
+ Measurement Sweep, bin, iter, slice :      1    16    16
+ Measurement Sweep, bin, iter, slice :      1    17     4
+ Measurement Sweep, bin, iter, slice :      1    18    20
+ Measurement Sweep, bin, iter, slice :      1    19     1
+ Measurement Sweep, bin, iter, slice :      1    20    11
+ Measurement Sweep, bin, iter, slice :      1    21     8
+ Measurement Sweep, bin, iter, slice :      1    22    18
+ Measurement Sweep, bin, iter, slice :      1    23     4
+ Measurement Sweep, bin, iter, slice :      1    24     4
+ Measurement Sweep, bin, iter, slice :      1    25    19
+ Measurement Sweep, bin, iter, slice :      1    26    15
+ Measurement Sweep, bin, iter, slice :      1    27     8
+ Measurement Sweep, bin, iter, slice :      1    28     3
+ Measurement Sweep, bin, iter, slice :      1    29     5
+ Measurement Sweep, bin, iter, slice :      1    30    16
+ Measurement Sweep, bin, iter, slice :      1    31     2
+ Measurement Sweep, bin, iter, slice :      1    32     7
+ Measurement Sweep, bin, iter, slice :      1    33    13
+ Measurement Sweep, bin, iter, slice :      1    34     1
+ Measurement Sweep, bin, iter, slice :      1    35    13
+ Measurement Sweep, bin, iter, slice :      1    36     8
+ Measurement Sweep, bin, iter, slice :      1    37    11
+ Measurement Sweep, bin, iter, slice :      1    38     6
+ Measurement Sweep, bin, iter, slice :      1    39     3
+ Measurement Sweep, bin, iter, slice :      1    40    12
+ Measurement Sweep, bin, iter, slice :      1    41    17
+ Measurement Sweep, bin, iter, slice :      1    42    16
+ Measurement Sweep, bin, iter, slice :      1    43    10
+ Measurement Sweep, bin, iter, slice :      1    44    12
+ Measurement Sweep, bin, iter, slice :      1    45    17
+ Measurement Sweep, bin, iter, slice :      1    46    18
+ Measurement Sweep, bin, iter, slice :      1    47     2
+ Measurement Sweep, bin, iter, slice :      1    48     8
+ Measurement Sweep, bin, iter, slice :      1    49     4
+ Measurement Sweep, bin, iter, slice :      1    50     9
+ Measurement Sweep, bin, iter, slice :      2     1     1
+ Measurement Sweep, bin, iter, slice :      2     2    12
+ Measurement Sweep, bin, iter, slice :      2     3    18
+ Measurement Sweep, bin, iter, slice :      2     4     2
+ Measurement Sweep, bin, iter, slice :      2     5     9
+ Measurement Sweep, bin, iter, slice :      2     6     4
+ Measurement Sweep, bin, iter, slice :      2     7     9
+ Measurement Sweep, bin, iter, slice :      2     8     4
+ Measurement Sweep, bin, iter, slice :      2     9     1
+ Measurement Sweep, bin, iter, slice :      2    10     6
+ Measurement Sweep, bin, iter, slice :      2    11    16
+ Measurement Sweep, bin, iter, slice :      2    12    11
+ Measurement Sweep, bin, iter, slice :      2    13     4
+ Measurement Sweep, bin, iter, slice :      2    14    13
+ Measurement Sweep, bin, iter, slice :      2    15    12
+ Measurement Sweep, bin, iter, slice :      2    16    13
+ Measurement Sweep, bin, iter, slice :      2    17    16
+ Measurement Sweep, bin, iter, slice :      2    18    11
+ Measurement Sweep, bin, iter, slice :      2    19     5
+ Measurement Sweep, bin, iter, slice :      2    20    10
+ Measurement Sweep, bin, iter, slice :      2    21    20
+ Measurement Sweep, bin, iter, slice :      2    22    17
+ Measurement Sweep, bin, iter, slice :      2    23    11
+ Measurement Sweep, bin, iter, slice :      2    24     7
+ Measurement Sweep, bin, iter, slice :      2    25     2
+ Measurement Sweep, bin, iter, slice :      2    26    11
+ Measurement Sweep, bin, iter, slice :      2    27     6
+ Measurement Sweep, bin, iter, slice :      2    28     6
+ Measurement Sweep, bin, iter, slice :      2    29     7
+ Measurement Sweep, bin, iter, slice :      2    30    10
+ Measurement Sweep, bin, iter, slice :      2    31    20
+ Measurement Sweep, bin, iter, slice :      2    32     3
+ Measurement Sweep, bin, iter, slice :      2    33    10
+ Measurement Sweep, bin, iter, slice :      2    34     9
+ Measurement Sweep, bin, iter, slice :      2    35     9
+ Measurement Sweep, bin, iter, slice :      2    36     9
+ Measurement Sweep, bin, iter, slice :      2    37    10
+ Measurement Sweep, bin, iter, slice :      2    38     9
+ Measurement Sweep, bin, iter, slice :      2    39    12
+ Measurement Sweep, bin, iter, slice :      2    40    17
+ Measurement Sweep, bin, iter, slice :      2    41    20
+ Measurement Sweep, bin, iter, slice :      2    42     5
+ Measurement Sweep, bin, iter, slice :      2    43     8
+ Measurement Sweep, bin, iter, slice :      2    44     1
+ Measurement Sweep, bin, iter, slice :      2    45     8
+ Measurement Sweep, bin, iter, slice :      2    46     4
+ Measurement Sweep, bin, iter, slice :      2    47    13
+ Measurement Sweep, bin, iter, slice :      2    48     8
+ Measurement Sweep, bin, iter, slice :      2    49    11
+ Measurement Sweep, bin, iter, slice :      2    50    17
+ Measurement Sweep, bin, iter, slice :      3     1    17
+ Measurement Sweep, bin, iter, slice :      3     2     2
+ Measurement Sweep, bin, iter, slice :      3     3    17
+ Measurement Sweep, bin, iter, slice :      3     4    15
+ Measurement Sweep, bin, iter, slice :      3     5     9
+ Measurement Sweep, bin, iter, slice :      3     6    20
+ Measurement Sweep, bin, iter, slice :      3     7     8
+ Measurement Sweep, bin, iter, slice :      3     8     6
+ Measurement Sweep, bin, iter, slice :      3     9    20
+ Measurement Sweep, bin, iter, slice :      3    10    20
+ Measurement Sweep, bin, iter, slice :      3    11    17
+ Measurement Sweep, bin, iter, slice :      3    12     9
+ Measurement Sweep, bin, iter, slice :      3    13    11
+ Measurement Sweep, bin, iter, slice :      3    14    12
+ Measurement Sweep, bin, iter, slice :      3    15    12
+ Measurement Sweep, bin, iter, slice :      3    16     7
+ Measurement Sweep, bin, iter, slice :      3    17     3
+ Measurement Sweep, bin, iter, slice :      3    18    15
+ Measurement Sweep, bin, iter, slice :      3    19     9
+ Measurement Sweep, bin, iter, slice :      3    20     5
+ Measurement Sweep, bin, iter, slice :      3    21     7
+ Measurement Sweep, bin, iter, slice :      3    22    14
+ Measurement Sweep, bin, iter, slice :      3    23     9
+ Measurement Sweep, bin, iter, slice :      3    24     4
+ Measurement Sweep, bin, iter, slice :      3    25     2
+ Measurement Sweep, bin, iter, slice :      3    26     4
+ Measurement Sweep, bin, iter, slice :      3    27     8
+ Measurement Sweep, bin, iter, slice :      3    28    10
+ Measurement Sweep, bin, iter, slice :      3    29    13
+ Measurement Sweep, bin, iter, slice :      3    30    18
+ Measurement Sweep, bin, iter, slice :      3    31    11
+ Measurement Sweep, bin, iter, slice :      3    32    16
+ Measurement Sweep, bin, iter, slice :      3    33    13
+ Measurement Sweep, bin, iter, slice :      3    34     7
+ Measurement Sweep, bin, iter, slice :      3    35     9
+ Measurement Sweep, bin, iter, slice :      3    36    20
+ Measurement Sweep, bin, iter, slice :      3    37     3
+ Measurement Sweep, bin, iter, slice :      3    38     6
+ Measurement Sweep, bin, iter, slice :      3    39     6
+ Measurement Sweep, bin, iter, slice :      3    40    19
+ Measurement Sweep, bin, iter, slice :      3    41     4
+ Measurement Sweep, bin, iter, slice :      3    42    10
+ Measurement Sweep, bin, iter, slice :      3    43     5
+ Measurement Sweep, bin, iter, slice :      3    44    11
+ Measurement Sweep, bin, iter, slice :      3    45     1
+ Measurement Sweep, bin, iter, slice :      3    46     1
+ Measurement Sweep, bin, iter, slice :      3    47     4
+ Measurement Sweep, bin, iter, slice :      3    48     2
+ Measurement Sweep, bin, iter, slice :      3    49     9
+ Measurement Sweep, bin, iter, slice :      3    50    10
+ Measurement Sweep, bin, iter, slice :      4     1    10
+ Measurement Sweep, bin, iter, slice :      4     2     4
+ Measurement Sweep, bin, iter, slice :      4     3    18
+ Measurement Sweep, bin, iter, slice :      4     4    12
+ Measurement Sweep, bin, iter, slice :      4     5     5
+ Measurement Sweep, bin, iter, slice :      4     6     7
+ Measurement Sweep, bin, iter, slice :      4     7    11
+ Measurement Sweep, bin, iter, slice :      4     8    17
+ Measurement Sweep, bin, iter, slice :      4     9     6
+ Measurement Sweep, bin, iter, slice :      4    10    17
+ Measurement Sweep, bin, iter, slice :      4    11     7
+ Measurement Sweep, bin, iter, slice :      4    12    18
+ Measurement Sweep, bin, iter, slice :      4    13     2
+ Measurement Sweep, bin, iter, slice :      4    14     2
+ Measurement Sweep, bin, iter, slice :      4    15     9
+ Measurement Sweep, bin, iter, slice :      4    16     5
+ Measurement Sweep, bin, iter, slice :      4    17     5
+ Measurement Sweep, bin, iter, slice :      4    18     9
+ Measurement Sweep, bin, iter, slice :      4    19     4
+ Measurement Sweep, bin, iter, slice :      4    20     2
+ Measurement Sweep, bin, iter, slice :      4    21     9
+ Measurement Sweep, bin, iter, slice :      4    22    12
+ Measurement Sweep, bin, iter, slice :      4    23    12
+ Measurement Sweep, bin, iter, slice :      4    24    20
+ Measurement Sweep, bin, iter, slice :      4    25     2
+ Measurement Sweep, bin, iter, slice :      4    26     7
+ Measurement Sweep, bin, iter, slice :      4    27    12
+ Measurement Sweep, bin, iter, slice :      4    28    11
+ Measurement Sweep, bin, iter, slice :      4    29    15
+ Measurement Sweep, bin, iter, slice :      4    30    11
+ Measurement Sweep, bin, iter, slice :      4    31    20
+ Measurement Sweep, bin, iter, slice :      4    32     3
+ Measurement Sweep, bin, iter, slice :      4    33    15
+ Measurement Sweep, bin, iter, slice :      4    34    19
+ Measurement Sweep, bin, iter, slice :      4    35    14
+ Measurement Sweep, bin, iter, slice :      4    36    17
+ Measurement Sweep, bin, iter, slice :      4    37    15
+ Measurement Sweep, bin, iter, slice :      4    38    12
+ Measurement Sweep, bin, iter, slice :      4    39     9
+ Measurement Sweep, bin, iter, slice :      4    40     2
+ Measurement Sweep, bin, iter, slice :      4    41    16
+ Measurement Sweep, bin, iter, slice :      4    42    10
+ Measurement Sweep, bin, iter, slice :      4    43    17
+ Measurement Sweep, bin, iter, slice :      4    44    10
+ Measurement Sweep, bin, iter, slice :      4    45    14
+ Measurement Sweep, bin, iter, slice :      4    46     5
+ Measurement Sweep, bin, iter, slice :      4    47     5
+ Measurement Sweep, bin, iter, slice :      4    48     3
+ Measurement Sweep, bin, iter, slice :      4    49    20
+ Measurement Sweep, bin, iter, slice :      4    50     9
+ Measurement Sweep, bin, iter, slice :      5     1     7
+ Measurement Sweep, bin, iter, slice :      5     2     9
+ Measurement Sweep, bin, iter, slice :      5     3    15
+ Measurement Sweep, bin, iter, slice :      5     4     5
+ Measurement Sweep, bin, iter, slice :      5     5    10
+ Measurement Sweep, bin, iter, slice :      5     6     1
+ Measurement Sweep, bin, iter, slice :      5     7    20
+ Measurement Sweep, bin, iter, slice :      5     8    16
+ Measurement Sweep, bin, iter, slice :      5     9    15
+ Measurement Sweep, bin, iter, slice :      5    10    10
+ Measurement Sweep, bin, iter, slice :      5    11    17
+ Measurement Sweep, bin, iter, slice :      5    12    19
+ Measurement Sweep, bin, iter, slice :      5    13    10
+ Measurement Sweep, bin, iter, slice :      5    14     1
+ Measurement Sweep, bin, iter, slice :      5    15     3
+ Measurement Sweep, bin, iter, slice :      5    16    11
+ Measurement Sweep, bin, iter, slice :      5    17    11
+ Measurement Sweep, bin, iter, slice :      5    18    12
+ Measurement Sweep, bin, iter, slice :      5    19    12
+ Measurement Sweep, bin, iter, slice :      5    20    17
+ Measurement Sweep, bin, iter, slice :      5    21    14
+ Measurement Sweep, bin, iter, slice :      5    22    17
+ Measurement Sweep, bin, iter, slice :      5    23    13
+ Measurement Sweep, bin, iter, slice :      5    24     8
+ Measurement Sweep, bin, iter, slice :      5    25    19
+ Measurement Sweep, bin, iter, slice :      5    26    19
+ Measurement Sweep, bin, iter, slice :      5    27     4
+ Measurement Sweep, bin, iter, slice :      5    28    19
+ Measurement Sweep, bin, iter, slice :      5    29    20
+ Measurement Sweep, bin, iter, slice :      5    30     5
+ Measurement Sweep, bin, iter, slice :      5    31     6
+ Measurement Sweep, bin, iter, slice :      5    32    19
+ Measurement Sweep, bin, iter, slice :      5    33    12
+ Measurement Sweep, bin, iter, slice :      5    34    13
+ Measurement Sweep, bin, iter, slice :      5    35     3
+ Measurement Sweep, bin, iter, slice :      5    36    12
+ Measurement Sweep, bin, iter, slice :      5    37     3
+ Measurement Sweep, bin, iter, slice :      5    38     5
+ Measurement Sweep, bin, iter, slice :      5    39     3
+ Measurement Sweep, bin, iter, slice :      5    40     8
+ Measurement Sweep, bin, iter, slice :      5    41    10
+ Measurement Sweep, bin, iter, slice :      5    42    12
+ Measurement Sweep, bin, iter, slice :      5    43    13
+ Measurement Sweep, bin, iter, slice :      5    44    12
+ Measurement Sweep, bin, iter, slice :      5    45     7
+ Measurement Sweep, bin, iter, slice :      5    46    10
+ Measurement Sweep, bin, iter, slice :      5    47    15
+ Measurement Sweep, bin, iter, slice :      5    48     6
+ Measurement Sweep, bin, iter, slice :      5    49     5
+ Measurement Sweep, bin, iter, slice :      5    50     5
+ Measurement Sweep, bin, iter, slice :      6     1     3
+ Measurement Sweep, bin, iter, slice :      6     2     2
+ Measurement Sweep, bin, iter, slice :      6     3    13
+ Measurement Sweep, bin, iter, slice :      6     4    17
+ Measurement Sweep, bin, iter, slice :      6     5     6
+ Measurement Sweep, bin, iter, slice :      6     6    18
+ Measurement Sweep, bin, iter, slice :      6     7     4
+ Measurement Sweep, bin, iter, slice :      6     8     8
+ Measurement Sweep, bin, iter, slice :      6     9    13
+ Measurement Sweep, bin, iter, slice :      6    10     2
+ Measurement Sweep, bin, iter, slice :      6    11    18
+ Measurement Sweep, bin, iter, slice :      6    12     5
+ Measurement Sweep, bin, iter, slice :      6    13    20
+ Measurement Sweep, bin, iter, slice :      6    14     5
+ Measurement Sweep, bin, iter, slice :      6    15     2
+ Measurement Sweep, bin, iter, slice :      6    16     8
+ Measurement Sweep, bin, iter, slice :      6    17    10
+ Measurement Sweep, bin, iter, slice :      6    18     3
+ Measurement Sweep, bin, iter, slice :      6    19    20
+ Measurement Sweep, bin, iter, slice :      6    20    13
+ Measurement Sweep, bin, iter, slice :      6    21    12
+ Measurement Sweep, bin, iter, slice :      6    22     2
+ Measurement Sweep, bin, iter, slice :      6    23     8
+ Measurement Sweep, bin, iter, slice :      6    24    16
+ Measurement Sweep, bin, iter, slice :      6    25     6
+ Measurement Sweep, bin, iter, slice :      6    26    12
+ Measurement Sweep, bin, iter, slice :      6    27    15
+ Measurement Sweep, bin, iter, slice :      6    28    19
+ Measurement Sweep, bin, iter, slice :      6    29    19
+ Measurement Sweep, bin, iter, slice :      6    30    15
+ Measurement Sweep, bin, iter, slice :      6    31    17
+ Measurement Sweep, bin, iter, slice :      6    32    19
+ Measurement Sweep, bin, iter, slice :      6    33    18
+ Measurement Sweep, bin, iter, slice :      6    34    15
+ Measurement Sweep, bin, iter, slice :      6    35     6
+ Measurement Sweep, bin, iter, slice :      6    36     8
+ Measurement Sweep, bin, iter, slice :      6    37     5
+ Measurement Sweep, bin, iter, slice :      6    38    15
+ Measurement Sweep, bin, iter, slice :      6    39     9
+ Measurement Sweep, bin, iter, slice :      6    40     7
+ Measurement Sweep, bin, iter, slice :      6    41     8
+ Measurement Sweep, bin, iter, slice :      6    42     1
+ Measurement Sweep, bin, iter, slice :      6    43    18
+ Measurement Sweep, bin, iter, slice :      6    44    16
+ Measurement Sweep, bin, iter, slice :      6    45    11
+ Measurement Sweep, bin, iter, slice :      6    46    20
+ Measurement Sweep, bin, iter, slice :      6    47     8
+ Measurement Sweep, bin, iter, slice :      6    48    10
+ Measurement Sweep, bin, iter, slice :      6    49     7
+ Measurement Sweep, bin, iter, slice :      6    50     5
+ Measurement Sweep, bin, iter, slice :      7     1    11
+ Measurement Sweep, bin, iter, slice :      7     2    14
+ Measurement Sweep, bin, iter, slice :      7     3    20
+ Measurement Sweep, bin, iter, slice :      7     4     5
+ Measurement Sweep, bin, iter, slice :      7     5    16
+ Measurement Sweep, bin, iter, slice :      7     6    11
+ Measurement Sweep, bin, iter, slice :      7     7    13
+ Measurement Sweep, bin, iter, slice :      7     8    16
+ Measurement Sweep, bin, iter, slice :      7     9    17
+ Measurement Sweep, bin, iter, slice :      7    10    17
+ Measurement Sweep, bin, iter, slice :      7    11    20
+ Measurement Sweep, bin, iter, slice :      7    12     7
+ Measurement Sweep, bin, iter, slice :      7    13    13
+ Measurement Sweep, bin, iter, slice :      7    14    15
+ Measurement Sweep, bin, iter, slice :      7    15     9
+ Measurement Sweep, bin, iter, slice :      7    16     2
+ Measurement Sweep, bin, iter, slice :      7    17     9
+ Measurement Sweep, bin, iter, slice :      7    18    10
+ Measurement Sweep, bin, iter, slice :      7    19     4
+ Measurement Sweep, bin, iter, slice :      7    20     3
+ Measurement Sweep, bin, iter, slice :      7    21    10
+ Measurement Sweep, bin, iter, slice :      7    22    16
+ Measurement Sweep, bin, iter, slice :      7    23     2
+ Measurement Sweep, bin, iter, slice :      7    24     4
+ Measurement Sweep, bin, iter, slice :      7    25     4
+ Measurement Sweep, bin, iter, slice :      7    26     7
+ Measurement Sweep, bin, iter, slice :      7    27    18
+ Measurement Sweep, bin, iter, slice :      7    28    15
+ Measurement Sweep, bin, iter, slice :      7    29    12
+ Measurement Sweep, bin, iter, slice :      7    30    14
+ Measurement Sweep, bin, iter, slice :      7    31    20
+ Measurement Sweep, bin, iter, slice :      7    32    11
+ Measurement Sweep, bin, iter, slice :      7    33    17
+ Measurement Sweep, bin, iter, slice :      7    34    12
+ Measurement Sweep, bin, iter, slice :      7    35    11
+ Measurement Sweep, bin, iter, slice :      7    36     4
+ Measurement Sweep, bin, iter, slice :      7    37     9
+ Measurement Sweep, bin, iter, slice :      7    38    12
+ Measurement Sweep, bin, iter, slice :      7    39    18
+ Measurement Sweep, bin, iter, slice :      7    40    11
+ Measurement Sweep, bin, iter, slice :      7    41    19
+ Measurement Sweep, bin, iter, slice :      7    42     2
+ Measurement Sweep, bin, iter, slice :      7    43    13
+ Measurement Sweep, bin, iter, slice :      7    44     5
+ Measurement Sweep, bin, iter, slice :      7    45     4
+ Measurement Sweep, bin, iter, slice :      7    46    15
+ Measurement Sweep, bin, iter, slice :      7    47     3
+ Measurement Sweep, bin, iter, slice :      7    48     1
+ Measurement Sweep, bin, iter, slice :      7    49    11
+ Measurement Sweep, bin, iter, slice :      7    50    12
+ Measurement Sweep, bin, iter, slice :      8     1    19
+ Measurement Sweep, bin, iter, slice :      8     2    13
+ Measurement Sweep, bin, iter, slice :      8     3    18
+ Measurement Sweep, bin, iter, slice :      8     4     6
+ Measurement Sweep, bin, iter, slice :      8     5     4
+ Measurement Sweep, bin, iter, slice :      8     6    11
+ Measurement Sweep, bin, iter, slice :      8     7    11
+ Measurement Sweep, bin, iter, slice :      8     8     9
+ Measurement Sweep, bin, iter, slice :      8     9    12
+ Measurement Sweep, bin, iter, slice :      8    10    14
+ Measurement Sweep, bin, iter, slice :      8    11     8
+ Measurement Sweep, bin, iter, slice :      8    12    16
+ Measurement Sweep, bin, iter, slice :      8    13    10
+ Measurement Sweep, bin, iter, slice :      8    14     4
+ Measurement Sweep, bin, iter, slice :      8    15     4
+ Measurement Sweep, bin, iter, slice :      8    16     7
+ Measurement Sweep, bin, iter, slice :      8    17    18
+ Measurement Sweep, bin, iter, slice :      8    18     1
+ Measurement Sweep, bin, iter, slice :      8    19    20
+ Measurement Sweep, bin, iter, slice :      8    20    11
+ Measurement Sweep, bin, iter, slice :      8    21     4
+ Measurement Sweep, bin, iter, slice :      8    22     6
+ Measurement Sweep, bin, iter, slice :      8    23    12
+ Measurement Sweep, bin, iter, slice :      8    24    16
+ Measurement Sweep, bin, iter, slice :      8    25     3
+ Measurement Sweep, bin, iter, slice :      8    26    10
+ Measurement Sweep, bin, iter, slice :      8    27     8
+ Measurement Sweep, bin, iter, slice :      8    28    12
+ Measurement Sweep, bin, iter, slice :      8    29    15
+ Measurement Sweep, bin, iter, slice :      8    30    16
+ Measurement Sweep, bin, iter, slice :      8    31     1
+ Measurement Sweep, bin, iter, slice :      8    32    13
+ Measurement Sweep, bin, iter, slice :      8    33     8
+ Measurement Sweep, bin, iter, slice :      8    34     4
+ Measurement Sweep, bin, iter, slice :      8    35     2
+ Measurement Sweep, bin, iter, slice :      8    36    12
+ Measurement Sweep, bin, iter, slice :      8    37    18
+ Measurement Sweep, bin, iter, slice :      8    38     6
+ Measurement Sweep, bin, iter, slice :      8    39    10
+ Measurement Sweep, bin, iter, slice :      8    40    14
+ Measurement Sweep, bin, iter, slice :      8    41     5
+ Measurement Sweep, bin, iter, slice :      8    42    20
+ Measurement Sweep, bin, iter, slice :      8    43     8
+ Measurement Sweep, bin, iter, slice :      8    44    17
+ Measurement Sweep, bin, iter, slice :      8    45    14
+ Measurement Sweep, bin, iter, slice :      8    46    15
+ Measurement Sweep, bin, iter, slice :      8    47     8
+ Measurement Sweep, bin, iter, slice :      8    48     2
+ Measurement Sweep, bin, iter, slice :      8    49     6
+ Measurement Sweep, bin, iter, slice :      8    50    20
+ Measurement Sweep, bin, iter, slice :      9     1     6
+ Measurement Sweep, bin, iter, slice :      9     2     8
+ Measurement Sweep, bin, iter, slice :      9     3    16
+ Measurement Sweep, bin, iter, slice :      9     4    12
+ Measurement Sweep, bin, iter, slice :      9     5    12
+ Measurement Sweep, bin, iter, slice :      9     6    14
+ Measurement Sweep, bin, iter, slice :      9     7    15
+ Measurement Sweep, bin, iter, slice :      9     8     1
+ Measurement Sweep, bin, iter, slice :      9     9    19
+ Measurement Sweep, bin, iter, slice :      9    10     5
+ Measurement Sweep, bin, iter, slice :      9    11    12
+ Measurement Sweep, bin, iter, slice :      9    12    13
+ Measurement Sweep, bin, iter, slice :      9    13     1
+ Measurement Sweep, bin, iter, slice :      9    14    18
+ Measurement Sweep, bin, iter, slice :      9    15    19
+ Measurement Sweep, bin, iter, slice :      9    16     9
+ Measurement Sweep, bin, iter, slice :      9    17    13
+ Measurement Sweep, bin, iter, slice :      9    18     6
+ Measurement Sweep, bin, iter, slice :      9    19    17
+ Measurement Sweep, bin, iter, slice :      9    20     2
+ Measurement Sweep, bin, iter, slice :      9    21    20
+ Measurement Sweep, bin, iter, slice :      9    22    20
+ Measurement Sweep, bin, iter, slice :      9    23     9
+ Measurement Sweep, bin, iter, slice :      9    24     7
+ Measurement Sweep, bin, iter, slice :      9    25    11
+ Measurement Sweep, bin, iter, slice :      9    26     2
+ Measurement Sweep, bin, iter, slice :      9    27    13
+ Measurement Sweep, bin, iter, slice :      9    28    14
+ Measurement Sweep, bin, iter, slice :      9    29     9
+ Measurement Sweep, bin, iter, slice :      9    30     2
+ Measurement Sweep, bin, iter, slice :      9    31    20
+ Measurement Sweep, bin, iter, slice :      9    32     2
+ Measurement Sweep, bin, iter, slice :      9    33     1
+ Measurement Sweep, bin, iter, slice :      9    34    11
+ Measurement Sweep, bin, iter, slice :      9    35    11
+ Measurement Sweep, bin, iter, slice :      9    36    11
+ Measurement Sweep, bin, iter, slice :      9    37     2
+ Measurement Sweep, bin, iter, slice :      9    38     5
+ Measurement Sweep, bin, iter, slice :      9    39     7
+ Measurement Sweep, bin, iter, slice :      9    40    10
+ Measurement Sweep, bin, iter, slice :      9    41     1
+ Measurement Sweep, bin, iter, slice :      9    42    18
+ Measurement Sweep, bin, iter, slice :      9    43    10
+ Measurement Sweep, bin, iter, slice :      9    44     8
+ Measurement Sweep, bin, iter, slice :      9    45    11
+ Measurement Sweep, bin, iter, slice :      9    46     3
+ Measurement Sweep, bin, iter, slice :      9    47    10
+ Measurement Sweep, bin, iter, slice :      9    48    16
+ Measurement Sweep, bin, iter, slice :      9    49    15
+ Measurement Sweep, bin, iter, slice :      9    50    20
+ Measurement Sweep, bin, iter, slice :     10     1     7
+ Measurement Sweep, bin, iter, slice :     10     2     9
+ Measurement Sweep, bin, iter, slice :     10     3     2
+ Measurement Sweep, bin, iter, slice :     10     4    16
+ Measurement Sweep, bin, iter, slice :     10     5    13
+ Measurement Sweep, bin, iter, slice :     10     6     3
+ Measurement Sweep, bin, iter, slice :     10     7    19
+ Measurement Sweep, bin, iter, slice :     10     8    10
+ Measurement Sweep, bin, iter, slice :     10     9    14
+ Measurement Sweep, bin, iter, slice :     10    10     6
+ Measurement Sweep, bin, iter, slice :     10    11    15
+ Measurement Sweep, bin, iter, slice :     10    12     7
+ Measurement Sweep, bin, iter, slice :     10    13    11
+ Measurement Sweep, bin, iter, slice :     10    14     3
+ Measurement Sweep, bin, iter, slice :     10    15    11
+ Measurement Sweep, bin, iter, slice :     10    16    13
+ Measurement Sweep, bin, iter, slice :     10    17     6
+ Measurement Sweep, bin, iter, slice :     10    18    11
+ Measurement Sweep, bin, iter, slice :     10    19     9
+ Measurement Sweep, bin, iter, slice :     10    20    13
+ Measurement Sweep, bin, iter, slice :     10    21     9
+ Measurement Sweep, bin, iter, slice :     10    22    14
+ Measurement Sweep, bin, iter, slice :     10    23    19
+ Measurement Sweep, bin, iter, slice :     10    24    10
+ Measurement Sweep, bin, iter, slice :     10    25    14
+ Measurement Sweep, bin, iter, slice :     10    26     1
+ Measurement Sweep, bin, iter, slice :     10    27     1
+ Measurement Sweep, bin, iter, slice :     10    28     9
+ Measurement Sweep, bin, iter, slice :     10    29    20
+ Measurement Sweep, bin, iter, slice :     10    30    13
+ Measurement Sweep, bin, iter, slice :     10    31    16
+ Measurement Sweep, bin, iter, slice :     10    32     5
+ Measurement Sweep, bin, iter, slice :     10    33    19
+ Measurement Sweep, bin, iter, slice :     10    34    12
+ Measurement Sweep, bin, iter, slice :     10    35    14
+ Measurement Sweep, bin, iter, slice :     10    36     1
+ Measurement Sweep, bin, iter, slice :     10    37    18
+ Measurement Sweep, bin, iter, slice :     10    38    12
+ Measurement Sweep, bin, iter, slice :     10    39    13
+ Measurement Sweep, bin, iter, slice :     10    40     7
+ Measurement Sweep, bin, iter, slice :     10    41    17
+ Measurement Sweep, bin, iter, slice :     10    42    14
+ Measurement Sweep, bin, iter, slice :     10    43    12
+ Measurement Sweep, bin, iter, slice :     10    44     5
+ Measurement Sweep, bin, iter, slice :     10    45    14
+ Measurement Sweep, bin, iter, slice :     10    46     6
+ Measurement Sweep, bin, iter, slice :     10    47    17
+ Measurement Sweep, bin, iter, slice :     10    48     7
+ Measurement Sweep, bin, iter, slice :     10    49    11
+ Measurement Sweep, bin, iter, slice :     10    50    19
+ Done Printing
+ Running time:   129.606995     (second)

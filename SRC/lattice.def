@@ -1,0 +1,110 @@
+# =============================================================
+# This file defines data for input lattice of DQMC simulation.
+# =============================================================
+
+#
+# The name of the lattice. It's length should be < 30 characters.
+#
+name   = 2D periodic rectanular lattice 
+
+#
+# Number of sites. Here we do not care about the actual geometry.
+# For multiband, put all the sites here. 
+#
+nsite  = 16
+
+# ====================================
+# Adjacent matrix: the hopping matrix
+# ====================================
+
+# 
+# Number of different hoppings
+# 
+n_t  = 1
+
+#
+# File of hopping matrix. The format should be 
+#
+#        "site_i site_j hopping_parameter_index"
+#
+# For example, "1 3 2" means site 1 hops to site 3 with parameter idex 2
+#
+t_file = 2dperl.hop
+
+# ===================================
+# Class table: used to classify sites
+# ===================================
+
+#
+# Number of classes
+#
+nclass = 6
+
+#
+# File of classes: The format is "i j class_id"
+#
+c_file = 2dperl.cls
+
+#
+# File of class labels: The name (label) for each class
+#
+cl_file = 2dperl.clab
+
+
+# ======================================================
+# Neighbor matrix: used for pair suscebility calculation
+# ======================================================
+
+#
+# Number of maximum neighbors
+#
+max_nbr = 9
+
+#
+# Number of different neighbors
+#
+n_nbr = 1
+
+#
+# File of neighbor table. The format is similar to hopping matrix
+#
+n_file = 2dperl.nbr
+
+
+# ======================================================
+# Wave function: 
+# ======================================================
+#
+# Number of wave functions
+#
+nwave = 9
+
+# 
+# Wave matrix: a max_nbr*nwave matrix
+# 
+
+w_file = 2dperl.wav
+
+# 
+# Wave labels: labels for waves
+# 
+
+wl_file = 2dperl.wlab
+
+# ======================================================
+# Phase assignment
+# ======================================================
+
+#
+# File for assigning phase to each site.
+#
+p_file = 2dperl.phs
+
+# ======================================================
+# Fourier transformation matrix
+# ======================================================
+
+#
+# Matrix for fourier transformation
+#
+ft_file = 2dperl.ft
